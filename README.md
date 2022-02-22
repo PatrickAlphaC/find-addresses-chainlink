@@ -2,8 +2,6 @@ Do it for every chain.
 
 Full list: https://cl-docs-addresses.web.app/addresses.json
 
-We doing it for these peeps: https://www.nansen.ai/
-
 You'll need brownie installed.
 
 To run them all, run:
