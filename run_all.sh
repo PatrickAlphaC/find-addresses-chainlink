@@ -1,0 +1,11 @@
+brownie run scripts/multicall.py;
+brownie run scripts/multicall.py --network bsc-main;
+brownie run scripts/multicall.py --network polygon;
+brownie run scripts/multicall.py --network kovan;
+brownie run scripts/multicall.py --network rinkeby;
+brownie run scripts/multicall.py --network XDai;
+brownie run scripts/multicall.py --network arbitrum-main;
+brownie run scripts/multicall.py --network harmony-main;
+brownie run scripts/multicall.py --network ftm-main;
+brownie run scripts/multicall.py --network avax-main;
+brownie run scripts/multicall.py --network arbitrum-main;

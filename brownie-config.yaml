@@ -1,0 +1,32 @@
+networks:
+  default: mainnet
+  mainnet:
+    multicall2: "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696"
+    label: "Ethereum Mainnet"
+  kovan:
+    multicall2: "0x2cc8688C5f75E365aaEEb4ea8D6a480405A48D2A"
+    label: "Kovan Testnet"
+  rinkeby:
+    multicall2: "0x42Ad527de7d4e9d9d011aC45B31D8551f8Fe9821"
+    label: "Rinkeby Testnet"
+  XDai:
+    label: "Gnosis Chain (xDai) Data Feeds"
+    multicall2: "0xb5b692a88BDFc81ca69dcB1d924f59f0413A602a"
+  polygon-main:
+    label: "Polygon (Matic) Data Feeds"
+    multicall2: "0x11ce4B23bD875D7F5C6a31084f55fDe1e9A87507"
+  bsc-main:
+    label: "Binance Smart Chain Data Feeds"
+    multicall2: "0x41263cBA59EB80dC200F3E2544eda4ed6A90E76C"
+  harmony-main:
+    label: "Harmony Data Feeds"
+    multicall2: "0x34b415f4d3b332515e66f70595ace1dcf36254c5"
+  ftm-main:
+    label: "Fantom Mainnet"
+    multicall2: "0xb828C456600857abd4ed6C32FAcc607bD0464F4F"
+  avax-main:
+    label: "Avalanche Mainnet"
+    multicall2: "0x29b6603D17B9D8f021EcB8845B6FD06E1Adf89DE"
+  arbitrum-main:
+    label: "Arbitrum Mainnet"
+    multicall2: "0x842eC2c7D803033Edf55E478F461FC547Bc54EB2"
